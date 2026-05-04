@@ -1,0 +1,55 @@
+Sample Output
+
+FCFS
+
+P ID       AT     BT   CT  TAT   WT
+P1          0        4     4      4       0
+P2          0        5     9      9       4
+P3          0        3     12   12     9
+
+Average waiting time=4.3333
+Average Turnaround time=8.3333
+
+
+SJF
+
+P ID       AT     BT   CT  TAT   WT
+P1          0        4     7      7       3
+P2          0        5    12     12    7
+P3          0        3     3      3      0
+Average waiting time=3.3333
+Average Turnaround time=7.3333
+
+SRTF
+
+P ID       AT     BT   CT  TAT   WT
+P1          0        4     7      7       3
+P2          0        5    12     12    7
+P3          0        3     3      3      0
+Average waiting time=3.3333
+Average Turnaround time=7.3333
+
+Round Robin(Q=2)
+
+P ID       AT     BT   CT  TAT   WT
+P1          0        4    8        8      4
+P2          0        5    12     12    7
+P3          0        3     11     11    8
+Average waiting time=6.33
+Average Turnaround time=10.33
+
+
+Banker’s Algorithm
+
+Need Matrix
+7 4 3
+1 2 2
+6 0 0
+0 1 1
+4 3 1
+System is SAFE
+
+
+
+
+
