@@ -8,4 +8,4 @@ We use different terms to express time periods each process used while being pro
 Turnaround time:For a particular process, it is the total time needed for process execution It is the sum of process execution time and its waiting times.
 Waiting time:The waiting time for a specific process is the sum of all periods it spends waiting in the ready queue.
 Response time:It is the time from the submission of a process until the first response is produced (the time the process takes to start responding).
-
+For more visit the "Documentation " branch.
